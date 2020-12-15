@@ -1,0 +1,1 @@
+var json_projectbaiq_1 = {"type":"FeatureCollection","name":"projectbaiq_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[107.734053707843017,-6.938398666842054]}}]}
